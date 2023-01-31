@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "description": "Comprar Amendoim",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-31T18:16:53.483Z",
+      "id": 3
+    },
+    {
+      "description": "Playstation 5 ",
+      "price": 4950,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-01-31T18:17:47.269Z",
+      "id": 4
+    },
+    {
+      "description": "Deposito BET 365",
+      "price": 200,
+      "category": "JOGOS DE AZAR ",
+      "type": "outcome",
+      "createdAt": "2023-01-31T18:18:35.960Z",
+      "id": 5
+    },
+    {
+      "description": "PAGAMENTO VIA PIX ",
+      "price": 10,
+      "category": "Prostituição",
+      "type": "income",
+      "createdAt": "2023-01-31T18:39:16.254Z",
+      "id": 6
+    },
+    {
+      "description": "PAGAMENTO VIA PIX ",
+      "price": 15000,
+      "category": "JOGO DO BICHO ",
+      "type": "income",
+      "createdAt": "2023-01-31T18:39:33.190Z",
+      "id": 7
+    }
+  ]
+}
